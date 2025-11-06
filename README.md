@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💾 SQL Portfolio Project: Asset Management Database
 
 ## 📝 Project Overview
@@ -42,3 +43,7 @@ The final state of the database reflects a complete, accurate, and functional as
 * **Name:** [Your Name]
 * **Email:** [Your Professional Email Address]
 * **LinkedIn:** [Your LinkedIn Profile URL]
+=======
+# Asset-Management-Project
+SQL Server project simulating an IT Asset Management (ITAM) system. Demonstrates core T-SQL skills, schema design, and critical debugging techniques. Solved real-world data integrity issues including Foreign Key conflicts, data type mismatches, and correcting flawed business logic to ensure accurate asset allocation for 125+ employees.
+>>>>>>> 913ae81927db8f64afb287bc9925d6ff7958330c
