@@ -40,9 +40,9 @@ The final state of the database reflects a complete, accurate, and functional as
 
 ## 📞 Contact Info
 
-* **Name:** [Your Name]
-* **Email:** [Your Professional Email Address]
-* **LinkedIn:** [Your LinkedIn Profile URL]
+* **Name:** Kiran Indur
+* **Email:** Kiran.indur@outlook.com
+* **LinkedIn:** https://www.linkedin.com/in/kiran-indur-emergent-work/
 =======
 # Asset-Management-Project
 SQL Server project simulating an IT Asset Management (ITAM) system. Demonstrates core T-SQL skills, schema design, and critical debugging techniques. Solved real-world data integrity issues including Foreign Key conflicts, data type mismatches, and correcting flawed business logic to ensure accurate asset allocation for 125+ employees.
